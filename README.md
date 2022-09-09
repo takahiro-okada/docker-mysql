@@ -134,3 +134,10 @@ Bye
 ❯ docker ps           
 CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
 ```
+
+## Sequel aceでMySQLを操作する
+接続する
+![CleanShot 2022-09-09 at 17 10 35](https://user-images.githubusercontent.com/76928095/189303704-b518d88b-c890-47b5-afc5-b2c04bb50784.jpg)
+
+テーブル確認
+![CleanShot 2022-09-09 at 17 11 17](https://user-images.githubusercontent.com/76928095/189303809-22987874-f699-478d-98fe-d95d7210ea41.jpg)
